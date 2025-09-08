@@ -6,7 +6,7 @@ This repository contains an automated image preprocessing  designed for the **Sp
 
 ---
 
-## 📦 Dataset Overview
+##  Dataset Overview
 
 - **Total Images:** 11,000
 - **Spice Categories:** 11 types (e.g., Turmeric, Coriander, Cumin, etc.)
@@ -14,29 +14,29 @@ This repository contains an automated image preprocessing  designed for the **Sp
 
 ---
 
-## 🧰 Features
+##  Features
 
-✅ **Square Cropping**  
+ **Square Cropping**  
 Automatically crops each image to the largest centered square.
 
-✅ **Image Resizing**  
+ **Image Resizing**  
 Resizes images to a uniform size (either 256×256 or 512×512 pixels).
 
-✅ **Format Support**  
+ **Format Support**  
 Supports `.jpg`, `.jpeg`, `.png`, `.bmp`, `.gif`, and `.tiff`.
 
-✅ **Folder Structure Preservation**  
+ **Folder Structure Preservation**  
 Maintains the original subfolder hierarchy when saving processed images.
 
-✅ **Error Handling**  
+ **Error Handling**  
 Skips unreadable or corrupted image files and logs them.
 
-✅ **Visualization**  
+ **Visualization**  
 Displays side-by-side visual comparison of original vs. processed images using `matplotlib`.
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 ### 1. Clone the Repository
 ```bash
@@ -58,12 +58,12 @@ python foldername.py
 
 ### 4. Provide Inputs When Prompted:
 
-* 📂 **Output Directory:** Where processed images should be saved.
-* 📏 **Target Size:** Enter `256` or `512` for resizing.
+*  **Output Directory:** Where processed images should be saved.
+*  **Target Size:** Enter `256` or `512` for resizing.
 
 ---
 
-## 📁 Directory Structure
+##  Directory Structure
 
 ```
 SpiceSpectrum/
@@ -77,7 +77,7 @@ SpiceSpectrum/
 
 
 
-## 🧪 Use Case
+##  Use Case
 
 This preprocessing pipeline is designed for:
 * Ensuring input uniformity for SPICE metric evaluation
@@ -85,19 +85,19 @@ This preprocessing pipeline is designed for:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve functionality, add features, or fix bugs.
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For questions or collaborations, please contact:
 **\[Md Noushad Jahan Ramim]**
@@ -107,5 +107,5 @@ For questions or collaborations, please contact:
 
 ```
 
----
+
 
