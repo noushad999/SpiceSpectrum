@@ -2,8 +2,9 @@
 
 #  SpiceSpectrum: Image Preprocessing for SPICE Dataset
 
-This repository contains an automated image preprocessing  designed for the **SpiceSpectrum** dataset — a collection of **11,000 images** across **11 different spice categories**. The pipeline prepares raw image data for use in tasks such as **image classification** or **SPICE evaluation**
-
+This repository contains an automated image preprocessing  designed for the **SpiceSpectrum** dataset — a collection of **11,000 images** across **11 different spice categories**. The pipeline prepares raw image data for use in tasks such as **image classification** or **SPICE variety classification.**
+dataset and image metadata available at:
+https://data.mendeley.com/datasets/5v7w2hx8n5/2
 ---
 
 ##  Dataset Overview
