@@ -1,10 +1,17 @@
 # SpiceSpectrum
 
-#  SpiceSpectrum: Image Preprocessing for SPICE Dataset
+#  SpiceSpectrum: Image Preprocessing for Spice Dataset
+
+<img width="1083" height="647" alt="image" src="https://github.com/user-attachments/assets/49eed79d-a246-4dce-bd74-5f45bd014660" />
+
 
 This repository contains an automated image preprocessing  designed for the **SpiceSpectrum** dataset — a collection of **11,000 images** across **11 different spice categories**. The pipeline prepares raw image data for use in tasks such as **image classification** or **SPICE variety classification.**
 dataset and image metadata available at:
 https://data.mendeley.com/datasets/5v7w2hx8n5/2
+
+Paper available at:
+https://www.sciencedirect.com/science/article/pii/S2352340925008194
+
 ---
 
 ##  Dataset Overview
@@ -102,9 +109,22 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 For questions or collaborations, please contact:
 **\[Md Noushad Jahan Ramim]**
-📧 [Noor Mairukh Khan Arnob](mailto:arnob39@gmail.com)
+📧 [Noor Mairukh Khan Arnob](mailto:arnob@uap-bd.edu)
 📧 [Md Mubtasim Fuad](mailto:mft.turzo@gmail.com)
 📧 [contactwithnoushad@gmail.com](mailto:contactwithnoushad@gmail.com)
+
+If you use ideas from our work useful, please cite our paper
+
+```
+@article{ramim2025spicespectrum,
+  title={SpiceSpectrum: Class-balanced Dataset of Commercially Valuable Spice Cultivars},
+  author={Ramim, Md Noushad Jahan and Islam, Samira and Towkir, Muhtasin and Fuad, Md Mubtasim and Arnob, Noor Mairukh Khan},
+  journal={Data in Brief},
+  pages={112097},
+  year={2025},
+  publisher={Elsevier}
+}
+```
 
 
 
